@@ -1,1 +1,1 @@
-# ct-js
+# Practice Coding test with JavaScript 
